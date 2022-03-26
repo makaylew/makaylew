@@ -1,9 +1,8 @@
-### Hi there 👋
+Hi! I'm Matayla. 👋
 
 <!--
 **makaylew/makaylew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on indy game and VST development
 - 🌱 I’m currently (re)learning python, php, and Unity3d
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: m_at_mataylalewis_dot_com
 - 😄 Pronouns: She/her or they/them
 - ⚡ Fun fact: I'm pretty into the power of healing crystals
--->
+
